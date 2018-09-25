@@ -2,11 +2,12 @@
     <img src="../img/sketch-logo.jpg" alt="sketch logo">
 </figure>
 
+[** What is Sketch?**](https://cheesecakelabs.com/blog/exporting-ui-assets-with-sketch/)
+
 ### Resources
 
-| Resources  | links |
+| Sketch Plugins Resources  | links |
 | ------------- | ------------- |
-| 50% student discount  | https://sketchapp.com/store/edu/  |
 | Elements UI Kit | https://sketch.cloud/s/MyY5w |
 | Sketch Plugins  | https://sketchapp.com/extensions/plugins/ |
 | Plugins / Runner  | https://sketchrunner.com/ |
@@ -17,5 +18,17 @@
 | Plugins / Mearge Duplicate Symbols | https://github.com/oodesign/merge-duplicate-symbols |
 | Plugins / Sketch Palettes | https://github.com/andrewfiorillo/sketch-palettes |
 | Plugins / Unsplash It | https://github.com/fhuel/Unsplash-It-Sketch |
-| Plugins / Canvas Flip / Not Free | https://canvasflip.com/ |
+
+...
+
+...
+
+...
+
+| Other Resources  | links |
+| ------------- | ------------- |
+| 50% student discount  | https://sketchapp.com/store/edu/  |
+| Canvas Flip | https://canvasflip.com/ |
+| InVision | https://www.invisionapp.com/|
+
 
