@@ -1,8 +1,13 @@
 # Summary
 
 * [Introduction to UI/UX](README.md)
+### MIDTERM PROJECT
+* [MIDTERM PROJECT](midterm.md)
+    * [Example - Research](ex-research.md)
+    * [Example - Wireframe](ex-wireframe.md)
 
-* [Sketch Basic](sketch.md)
+### UI Tools
+* [SKETCH BASIC](sketch.md)
     * [Interface](interface.md)
     * [Customize Toolbar](toolbar.md)
     * [Page Artboard and Layer](artboard.md)
@@ -12,6 +17,10 @@
     * [Mask Image Using Shape](maskImage.md)
     * [Layout, Ruler, and Grid](grid.md)
     * [Working with Color](color.md)
-    * [Export Your Works](export.md)
+    * [Export Artboards and Assets](export.md)
     * [Create Vector Graphic](vectorGraphic.md)
+    * [Prototype and Preview](prototype.md)
+    * [Install Sketch Plugin](sketchPlugin.md)
+    * [Install Google Fonts](googleFonts.md)
+
 
