@@ -1,4 +1,6 @@
-## Export your works
+## Export Artboards and Assets
+
+More info of how to share you design and assets [Click Here](https://sketchapp.com/docs/exporting/)
 
 ...
 
