@@ -4,7 +4,7 @@
 
 2. Student learns to create a simple wireframe using information from research
 
-3. Student learns to use UI Tools to create a mockup and prototype the design
+3. Student learns to use UI tools to create a mockup and prototype the design
 
 
 ...

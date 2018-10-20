@@ -4,11 +4,11 @@
 
 
 
-This documentation is created to provide extra informantion to help student understand:
+This documentation is created to provide extra information to help students understand:
 
 1. Strategic design principles, demonstrate strategic design, and proof of concept
 
-2. Journey Maps from design workflow to implimentation of design to web development:
+2. Journey Maps from design workflow to implementation of design to web development:
     * assess user expectations
     * peer evaluations
     * user feedback

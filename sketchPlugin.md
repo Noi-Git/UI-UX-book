@@ -1,6 +1,6 @@
 ## Install Sketch Plugin
 
-Sketch Pluging is a library that link to a specific documents that helps with your workflow.
+Sketch Plugins is a library that links to a specific documents that helps with workflow.
 
 https://sketchapp.com/extensions/plugins/
 
