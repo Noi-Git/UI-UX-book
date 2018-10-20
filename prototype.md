@@ -2,7 +2,7 @@
 
 #### What is prototype
 
-Prototyping is the way for user to communicate with the interactive interface. It provides a complete user experience for the testers by simulating the real product interface and functional interaction.
+Prototyping is the way for users to communicate with the interactive interface. It provides a complete user experience for the testers by simulating the real product interface and functional interaction.
 
 ...
 

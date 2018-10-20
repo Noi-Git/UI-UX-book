@@ -1,6 +1,6 @@
 ## Midterm Project
 
-1. Student learns to research
+1. Student learns to conduct research
 
 2. Student learns to create a simple wireframe using information from research
 
